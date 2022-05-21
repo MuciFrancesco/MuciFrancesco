@@ -27,8 +27,6 @@
  
 ### :hammer_and_wrench: Languages and Tools :
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
