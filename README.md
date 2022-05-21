@@ -14,11 +14,11 @@
  
 ---
 
-    - 🔭 I’m currently working to improve my skills
-    - 🌱 I’m currently learning React.js and Node.js
-    - 👯 I’m currently studying at Develhope school
-    - 💬 Ask me about anything
-    - 📫 How to reach me: francesco.muci@hotmail.it
+    🔭 I’m currently working to improve my skills
+    🌱 I’m currently learning React.js and Node.js
+    👯 I’m currently studying at Develhope school
+    💬 Ask me about anything
+    📫 How to reach me: francesco.muci@hotmail.it
 
  
 ---
