@@ -13,7 +13,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuciFrancesco)](https://github.com/MuciFrancesco/MuciFrancesco)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuciFrancesco)](https://github.com/MuciFrancesco/MuciFrancesco&show_icons=true&theme=radical)
 
 
 
