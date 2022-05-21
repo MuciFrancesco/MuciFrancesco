@@ -15,12 +15,14 @@
 ---
  
    <ul>
-    <li>🔭 I’m currently working to improve my skills</li>
-    <li>🌱I’m currently learning React.js and Node.js</li>
-    <li>👯 I’m currently studying at Develhope school</li>
-    <li>💬 Ask me about anything</li>
-    <li>📫 How to reach me: francesco.muci@hotmail.it</li>
+    <li><p>🔭 I’m currently working to improve my skills</p></li>
+    <li><p>🌱I’m currently learning React.js and Node.js</p></li>
+    <li><p>👯 I’m currently studying at Develhope school</p></li>
+    <li><p>💬 Ask me about anything</p></li>
+    <li><p>📫 How to reach me: francesco.muci@hotmail.it</p></li>
    </ul>
+ 
+ <p></p>
  
 ---
  
