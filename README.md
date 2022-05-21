@@ -9,7 +9,7 @@
   <p>- 📫 How to reach me: francesco.muci@hotmail.it</p>
  </div>
  <div id="info-img">
- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
  </div>
 </div>
 
