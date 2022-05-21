@@ -1,4 +1,4 @@
- <div id="info" style="display:flex">
+ <div id="info" style="display: flex" >
  <div id="info-text">
   <h1>Hi there 👋</h1>
   <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
@@ -9,7 +9,7 @@
   <p>- 📫 How to reach me: francesco.muci@hotmail.it</p>
  </div>
  <div id="info-img">
- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
  </div>
 </div>
 
