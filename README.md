@@ -8,7 +8,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: francesco.muci@hotmail.it
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/Ho8klqe5oPLa8g6BNe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
 
 <div id="account-linkedin">
     <a href="https://www.linkedin.com/in/francesco-muci-97a38222a/">
