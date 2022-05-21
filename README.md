@@ -1,5 +1,5 @@
- <div id="info" display: flex >
- <div id="info-text">
+ <div id="info">
+ <div id="info-text" align="center">
   <h1>Hi there 👋</h1>
   <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
   <p>- 🔭 I’m currently working to improve my skills</p>
