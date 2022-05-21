@@ -1,3 +1,4 @@
+ <div style="display:flex">
  Hi there 👋
  I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️
  
@@ -8,7 +9,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: francesco.muci@hotmail.it
 
-<div style=""> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/></div>
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</div>
 
 <div id="account-linkedin">
     <a href="https://www.linkedin.com/in/francesco-muci-97a38222a/">
