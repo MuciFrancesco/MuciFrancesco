@@ -48,7 +48,7 @@
  
 ---
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuciFrancesco&layout=compact)](https://github.com/MuciFrancesco/MuciFrancesco)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuciFrancesco&layout=compact&theme=dark)](https://github.com/MuciFrancesco/MuciFrancesco)
 
 
   
