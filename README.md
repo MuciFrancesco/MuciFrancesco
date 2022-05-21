@@ -1,5 +1,6 @@
  <div style="display:flex">
- Hi there 👋
+ <div>
+   Hi there 👋
  I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️
  
 
@@ -8,6 +9,8 @@
 - 👯 I’m currently studying at Develhope school
 - 💬 Ask me about anything
 - 📫 How to reach me: francesco.muci@hotmail.it
+ </div>
+
 
  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </div>
