@@ -8,7 +8,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: francesco.muci@hotmail.it
 <div id="img">
-  <img href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-Ho8klqe5oPLa8g6BNe"></img>
+<iframe src="https://giphy.com/embed/Ho8klqe5oPLa8g6BNe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-Ho8klqe5oPLa8g6BNe">via GIPHY</a></p>
 </div>
 
 <div id="account-linkedin">
