@@ -27,9 +27,11 @@
  
 ### :hammer_and_wrench: Languages and Tools :
   <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
