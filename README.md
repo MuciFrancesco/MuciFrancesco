@@ -1,10 +1,10 @@
  <div id="info" style="display: flex" >
   <h2>Hi there 👋</h2>
      <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" aling="center"/>
 </div>
 
-<div id="account-linkedin">
+<div id="account-linkedin" aling="center">
     <a href="https://www.linkedin.com/in/francesco-muci-97a38222a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
     <img src="https://komarev.com/ghpvc/?username=MuciFrancesco&style=flat-square&color=blue" alt=""/>
