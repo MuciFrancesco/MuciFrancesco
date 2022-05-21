@@ -1,4 +1,4 @@
- <div id="info" style="display: flex" >
+ <div id="info" display: flex >
  <div id="info-text">
   <h1>Hi there 👋</h1>
   <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
