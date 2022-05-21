@@ -1,14 +1,12 @@
- <div style="display:flex">
+ <div id="info" style="display:flex">
  <div>
-   Hi there 👋
- I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️
- 
-
-- 🔭 I’m currently working to improve my skills
-- 🌱 I’m currently learning React.js and Node.js
-- 👯 I’m currently studying at Develhope school
-- 💬 Ask me about anything
-- 📫 How to reach me: francesco.muci@hotmail.it
+  <h1>Hi there 👋</h1>
+  <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
+  <p>- 🔭 I’m currently working to improve my skills</p>
+  <p>- 🌱 I’m currently learning React.js and Node.js</p>
+  <p>- 👯 I’m currently studying at Develhope school</p>
+  <p>- 💬 Ask me about anything</p>
+  <p>- 📫 How to reach me: francesco.muci@hotmail.it</p>
  </div>
 
 
