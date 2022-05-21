@@ -1,10 +1,15 @@
  Hi there 👋
+ I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️
+ 
 
 - 🔭 I’m currently working to improve my skills
 - 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m currently studying at Develhope school
 - 💬 Ask me about anything
 - 📫 How to reach me: francesco.muci@hotmail.it
+<div id="img">
+  <img href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-Ho8klqe5oPLa8g6BNe"></img>
+</div>
 
 <div id="account-linkedin">
     <a href="https://www.linkedin.com/in/francesco-muci-97a38222a/">
