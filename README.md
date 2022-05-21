@@ -28,7 +28,6 @@
  
  ### :hammer_and_wrench: Languages and Tools :
  <div style="display: flex">
-  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50">
@@ -37,8 +36,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuciFrancesco&layout=compact"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuciFrancesco&layout=compact"></img>
  </div>
   
  
