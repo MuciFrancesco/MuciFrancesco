@@ -14,6 +14,16 @@
  
 ---
  
+ <div style="color:red">
+  <p>- 🔭 I’m currently working to improve my skills</p>
+  <p>- 🌱 I’m currently learning React.js and Node.js</p>
+  <p>- 👯 I’m currently studying at Develhope school</p>
+  <p>- 💬 Ask me about anything</p>
+  <p>- 📫 How to reach me: francesco.muci@hotmail.it</p>
+</div>
+ 
+---
+ 
  ### :hammer_and_wrench: Languages and Tools :
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
@@ -39,13 +49,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuciFrancesco&layout=compact)](https://github.com/MuciFrancesco/MuciFrancesco)
 
 
-  
-
-  <p>- 🔭 I’m currently working to improve my skills</p>
-  <p>- 🌱 I’m currently learning React.js and Node.js</p>
-  <p>- 👯 I’m currently studying at Develhope school</p>
-  <p>- 💬 Ask me about anything</p>
-  <p>- 📫 How to reach me: francesco.muci@hotmail.it</p>
   
   
   
