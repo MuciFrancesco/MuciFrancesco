@@ -1,16 +1,6 @@
- <div id="info">
- <div id="info-text" align="center">
-  <h3>Hi there 👋</h3>
-  <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
-  <p>- 🔭 I’m currently working to improve my skills</p>
-  <p>- 🌱 I’m currently learning React.js and Node.js</p>
-  <p>- 👯 I’m currently studying at Develhope school</p>
-  <p>- 💬 Ask me about anything</p>
-  <p>- 📫 How to reach me: francesco.muci@hotmail.it</p>
- </div>
- <div id="info-img" align="center">
+ <div id="info" style="display:flex">
+  <h2>Hi there 👋</h2>
  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
- </div>
 </div>
 
 <div id="account-linkedin">
