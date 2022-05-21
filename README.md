@@ -16,26 +16,10 @@
 
 <div style="display: flex">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=MuciFrancesco&theme=monokai&date_format=j%20M%5B%20Y%5D&ring=DD5819&fire=DD2727&currStreakNum=DDD21D&stroke=DD2727&sideLabels=DD6430&sideNums=DDD734&currStreakLabel=DD0404"></img>
- <img src="https://github-readme-stats.vercel.app/api?username=MuciFrancesco&show_icons=true&theme=monokai)](https://github.com/MuciFrancesco/MuciFrancesco"></img>
+ <img src="https://github-readme-stats.vercel.app/api?username=MuciFrancesco&show_icons=true&theme=monokai"></img>
  </div>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuciFrancesco&theme=monokai&date_format=j%20M%5B%20Y%5D&ring=DD5819&fire=DD2727&currStreakNum=DDD21D&stroke=DD2727&sideLabels=DD6430&sideNums=DDD734&currStreakLabel=DD0404)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuciFrancesco&show_icons=true&theme=monokai)](https://github.com/MuciFrancesco/MuciFrancesco)
-
-
-
-
-
 ---
- 
- <div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
- 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuciFrancesco&layout=compact)](https://github.com/MuciFrancesco/MuciFrancesco)
 
