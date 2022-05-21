@@ -13,7 +13,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuciFrancesco&show_icons=true&theme=merko)](https://github.com/MuciFrancesco/MuciFrancesco)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuciFrancesco&show_icons=true&theme=monokai)](https://github.com/MuciFrancesco/MuciFrancesco)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuciFrancesco&layout=compact)](https://github.com/MuciFrancesco/MuciFrancesco)
