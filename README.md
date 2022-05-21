@@ -11,9 +11,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
     <img src="https://komarev.com/ghpvc/?username=MuciFrancesco&style=flat-square&color=blue" alt=""/>
  </div>
+ 
 ---
 
-<div id="info-dev" style="display:flex">
+<div style="display: flex">
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuciFrancesco&theme=monokai&date_format=j%20M%5B%20Y%5D&ring=DD5819&fire=DD2727&currStreakNum=DDD21D&stroke=DD2727&sideLabels=DD6430&sideNums=DDD734&currStreakLabel=DD0404)](https://git.io/streak-stats)
 
