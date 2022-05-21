@@ -1,6 +1,6 @@
  <div id="info">
  <div id="info-text" align="center">
-  <h1>Hi there 👋</h1>
+  <h3>Hi there 👋</h3>
   <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
   <p>- 🔭 I’m currently working to improve my skills</p>
   <p>- 🌱 I’m currently learning React.js and Node.js</p>
