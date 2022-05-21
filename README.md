@@ -1,9 +1,8 @@
  <div id="info" style="display: flex" >
   <h2>Hi there 👋</h2>
      <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
+ </div>
  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" align="center"/>
-</div>
-
 <div id="account-linkedin" align="center">
     <a href="https://www.linkedin.com/in/francesco-muci-97a38222a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
