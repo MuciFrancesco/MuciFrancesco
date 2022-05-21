@@ -2,7 +2,7 @@
   <h2>Hi there 👋</h2>
      <p> I'm Francesco Muci, Full stack Web Developer Student 🖥️🖱️</p>
  </div>
- <div align="center">
+ <div align="center" style="margin:20px">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
  </div>
 
