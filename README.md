@@ -8,7 +8,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: francesco.muci@hotmail.it
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"> <img src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s" width="100"/></div>
 
 <div id="account-linkedin">
     <a href="https://www.linkedin.com/in/francesco-muci-97a38222a/">
@@ -40,3 +40,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
   </div>
+  
+  
+  
+  
+  
+  
+  
+  
+
